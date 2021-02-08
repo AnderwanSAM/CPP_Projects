@@ -1,0 +1,20 @@
+45
+
+La valeur ci-dessus provient de l'exemple de correction de code.
+
+Entrer le nombre de colonnes (entre 1 et 7) : 1
+Entrer le nombre de rangees : 1
+
+Nb_Colonnes = 1
+Nb_Rangees = 1
+
+
+
+La Table de multiplications
+
+ * 	|	1	
+___________________
+1	|	1	
+
+
+

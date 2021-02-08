@@ -1,0 +1,26 @@
+
+=========================================================================
+
+Test #1 - detecter si le controle commence trop tot
+
+Test #1 negatif - aucune difference detectee.
+
+=========================================================================
+
+Test #2 - detecter si le controle commence trop tard.
+
+Test #2 negatif - aucune difference detectee.
+
+=========================================================================
+
+Test #3 - detecter si le controle finit trop tot.
+
+Test #3 negatif - aucune difference detectee.
+
+=========================================================================
+
+Test #4 - detecter si le controle finit trop tard.
+
+Test #4 negatif - aucune difference detectee.
+
+=========================================================================
